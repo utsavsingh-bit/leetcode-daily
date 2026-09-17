@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -19,5 +20,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0704-binary-search) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
