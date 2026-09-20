@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
@@ -56,4 +57,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
