@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2235-add-two-integers) |
 ## Array
 |  |
@@ -44,8 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
