@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0344-reverse-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
