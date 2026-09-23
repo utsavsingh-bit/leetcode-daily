@@ -66,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0771-jewels-and-stones) |
 | [3498-reverse-degree-of-a-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3794-reverse-string-prefix) |
 ## Two Pointers
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0344-reverse-string) |
+| [3794-reverse-string-prefix](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3794-reverse-string-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
