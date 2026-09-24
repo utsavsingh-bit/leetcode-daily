@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2235-add-two-integers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
