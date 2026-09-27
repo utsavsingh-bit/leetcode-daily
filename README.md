@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1672-richest-customer-wealth) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0169-majority-element) |
 | [0771-jewels-and-stones](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
@@ -96,4 +98,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
