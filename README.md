@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2235-add-two-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
