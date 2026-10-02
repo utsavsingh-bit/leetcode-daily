@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2235-add-two-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1672-richest-customer-wealth) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
