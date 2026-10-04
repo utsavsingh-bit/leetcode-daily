@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0058-length-of-last-word) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0344-reverse-string) |
 | [3794-reverse-string-prefix](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3794-reverse-string-prefix) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
