@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
@@ -130,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Enumeration
 |  |
