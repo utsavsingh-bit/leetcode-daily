@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0258-add-digits) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0412-fizz-buzz) |
