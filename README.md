@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/0169-majority-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
 | ------- |
