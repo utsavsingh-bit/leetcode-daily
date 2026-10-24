@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2409-count-days-spent-together](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/utsavsingh-bit/leetcode-daily/tree/master/3794-reverse-string-prefix) |
 ## Two Pointers
